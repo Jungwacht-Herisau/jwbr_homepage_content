@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/5759420ea165222c.css","style"]
+:HL["/_next/static/chunks/c73773efb955645b.css","style"]
+:HL["/_next/static/chunks/5218f82687b2bf6d.css","style"]
+:HL["/_next/static/media/CenturyGothic-s.p.44f4d4b5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/CenturyGothic_Bold-s.p.3af58465.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/CenturyGothic_BoldItalic-s.p.0b360e61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/CenturyGothic_Italic-s.p.a7175300.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Jubla_Hand_16-s.p.a8a023ff.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"buildId":"afeQNcvLvS6uFQ8l4--Bp","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"galerie","paramType":null,"paramKey":"galerie","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"lager-2025-lyssach-be","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
