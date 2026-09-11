@@ -1,0 +1,24 @@
+{
+  "short_name": "JWBR Herisau",
+  "name": "Homepage Jungwacht Blauring Herisau",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "/apple-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fff"
+}
