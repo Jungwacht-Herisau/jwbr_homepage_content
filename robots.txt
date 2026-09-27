@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jwbr-herisau.ch
+
+# Sitemaps
+Sitemap: https://jwbr-herisau.ch/sitemap.xml
